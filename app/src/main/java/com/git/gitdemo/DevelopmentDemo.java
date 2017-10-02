@@ -5,4 +5,5 @@ package com.git.gitdemo;
  */
 
 public class DevelopmentDemo {
+    // merged features A,B,C
 }
